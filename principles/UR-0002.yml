@@ -1,0 +1,10 @@
+uid: UR-0002
+type: user_requirement
+status: approved
+title: "Avoid jargon; explain any unavoidable term in plain words"
+text: "Keep specialist vocabulary out; where a term cannot be avoided, define it in everyday language."
+links:
+- target: INT-0001
+  type: derives_from
+attrs:
+  source_ref: "TBS Audience — General reader — Terminology and jargon"

@@ -1,0 +1,10 @@
+uid: UR-0003
+type: user_requirement
+status: approved
+title: "Give only the depth the reader needs to act"
+text: "Include what a general reader needs to understand and act, and leave out specialist depth."
+links:
+- target: INT-0001
+  type: derives_from
+attrs:
+  source_ref: "TBS Audience — General reader — Depth and detail"

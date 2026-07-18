@@ -1,0 +1,11 @@
+uid: SR-0010
+type: system_requirement
+status: approved
+title: "Relate figures and concepts to familiar reference points"
+text: "Tie numbers and abstract concepts to reference points the reader already understands, so the scale or meaning is immediately clear."
+links:
+- target: UR-0005
+  type: implements
+attrs:
+  source_ref: "TBS Audience — General reader — Examples and reference points"
+  principle: UR-0005

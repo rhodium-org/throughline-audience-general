@@ -1,0 +1,11 @@
+uid: SR-0001
+type: system_requirement
+status: approved
+title: "Explain from first principles, assuming no subject knowledge"
+text: "Build each point up from the ground, so a reader who has never met the subject can follow it without outside knowledge."
+links:
+- target: UR-0001
+  type: implements
+attrs:
+  source_ref: "TBS Audience — General reader — Assumed prior knowledge"
+  principle: UR-0001

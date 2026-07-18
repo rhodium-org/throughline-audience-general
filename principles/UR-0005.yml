@@ -1,0 +1,10 @@
+uid: UR-0005
+type: user_requirement
+status: approved
+title: "Use everyday analogies and familiar situations"
+text: "Anchor unfamiliar ideas in examples and reference points from ordinary life."
+links:
+- target: INT-0001
+  type: derives_from
+attrs:
+  source_ref: "TBS Audience — General reader — Examples and reference points"

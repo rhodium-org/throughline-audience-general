@@ -1,0 +1,11 @@
+uid: SR-0006
+type: system_requirement
+status: approved
+title: "Focus on what it means for the reader, not how it works internally"
+text: "Explain what the subject means for the reader and what they should do, rather than the internal mechanics of how it works."
+links:
+- target: UR-0003
+  type: implements
+attrs:
+  source_ref: "TBS Audience — General reader — Depth and detail"
+  principle: UR-0003

@@ -1,0 +1,11 @@
+uid: SR-0009
+type: system_requirement
+status: approved
+title: "Illustrate with everyday analogies and situations from ordinary life"
+text: "Make unfamiliar ideas concrete with analogies and situations drawn from ordinary life, so the reader can map them onto what they already know."
+links:
+- target: UR-0005
+  type: implements
+attrs:
+  source_ref: "TBS Audience — General reader — Examples and reference points"
+  principle: UR-0005

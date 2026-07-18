@@ -1,0 +1,10 @@
+uid: UR-0001
+type: user_requirement
+status: approved
+title: "Assume no prior knowledge of the field"
+text: "Take nothing about the subject for granted; build understanding from the ground up."
+links:
+- target: INT-0001
+  type: derives_from
+attrs:
+  source_ref: "TBS Audience — General reader — Assumed prior knowledge"

@@ -1,0 +1,11 @@
+uid: SR-0005
+type: system_requirement
+status: approved
+title: "Include only the detail needed to understand and act"
+text: "Keep to the detail a general reader needs to make sense of the subject and take the next step; leave out specialist depth that does not change what they do."
+links:
+- target: UR-0003
+  type: implements
+attrs:
+  source_ref: "TBS Audience — General reader — Depth and detail"
+  principle: UR-0003

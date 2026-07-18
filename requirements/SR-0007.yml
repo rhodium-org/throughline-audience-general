@@ -1,0 +1,11 @@
+uid: SR-0007
+type: system_requirement
+status: approved
+title: "Open by explaining what the subject is and why it matters to the reader"
+text: "Begin by saying plainly what the subject is and why it matters to the reader, so they know from the outset why they should read on."
+links:
+- target: UR-0004
+  type: implements
+attrs:
+  source_ref: "TBS Audience — General reader — Context and orientation"
+  principle: UR-0004

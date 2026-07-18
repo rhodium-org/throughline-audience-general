@@ -1,0 +1,11 @@
+uid: SR-0002
+type: system_requirement
+status: approved
+title: "Do not rely on the reader knowing field-specific acronyms, processes or roles"
+text: "Never assume the reader recognises an acronym, a named process or a job role that belongs to the field; introduce each one before you use it."
+links:
+- target: UR-0001
+  type: implements
+attrs:
+  source_ref: "TBS Audience — General reader — Assumed prior knowledge"
+  principle: UR-0001

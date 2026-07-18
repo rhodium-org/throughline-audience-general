@@ -1,0 +1,11 @@
+uid: SR-0003
+type: system_requirement
+status: approved
+title: "Avoid specialist terms; explain any unavoidable one in everyday words"
+text: "Leave specialist terms out wherever a plain word will do; where a term genuinely cannot be avoided, define it in everyday language the first time it appears."
+links:
+- target: UR-0002
+  type: implements
+attrs:
+  source_ref: "TBS Audience — General reader — Terminology and jargon"
+  principle: UR-0002

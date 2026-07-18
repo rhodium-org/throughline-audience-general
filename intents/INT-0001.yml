@@ -1,0 +1,8 @@
+uid: INT-0001
+type: intent
+status: approved
+title: "Text is pitched for a general reader"
+text: "A general reader has no special knowledge of the field. They need everything explained in everyday terms, with full orientation to what the subject is and why it matters to them, and only the depth required to understand and act. This axis governs how the writing is calibrated to the reader's expertise — assumed knowledge, terminology, depth and orientation — not universal readability, spelling, register or purpose, each of which is a separate source. Audience levels are mutually exclusive: a consumer composes exactly one of the expert, practitioner or general sibling sources."
+normative: false
+attrs:
+  source_ref: "TBS Audience — General reader"

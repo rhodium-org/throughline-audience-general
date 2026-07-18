@@ -1,0 +1,11 @@
+uid: SR-0004
+type: system_requirement
+status: approved
+title: "Name things by what they do for the reader, not by their technical label"
+text: "Refer to things by the part they play in the reader's world rather than their internal or technical name, so the reader can grasp them without learning the field's vocabulary."
+links:
+- target: UR-0002
+  type: implements
+attrs:
+  source_ref: "TBS Audience — General reader — Terminology and jargon"
+  principle: UR-0002

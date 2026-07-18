@@ -1,0 +1,10 @@
+uid: UR-0004
+type: user_requirement
+status: approved
+title: "Give full orientation; start from why it matters to them"
+text: "Open by placing the subject in context and explaining why it matters to the reader."
+links:
+- target: INT-0001
+  type: derives_from
+attrs:
+  source_ref: "TBS Audience — General reader — Context and orientation"
