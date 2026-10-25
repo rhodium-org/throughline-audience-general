@@ -1,3 +1,4 @@
 prefix: SR
 digits: 4
 title: General-reader rules
+type: system_requirement
