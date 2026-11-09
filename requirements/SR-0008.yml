@@ -1,11 +1,13 @@
 uid: SR-0008
 type: system_requirement
-status: approved
-title: "Provide the background needed to make sense of the content"
-text: "Supply the background a general reader needs to follow the content, rather than assuming they already have it."
+status: proposed
+title: Provide the background needed to make sense of the content
+text: Supply the background a general reader needs to follow the content, rather
+  than assuming they already have it.
+normative: true
 links:
 - target: UR-0004
   type: implements
 attrs:
-  source_ref: "TBS Audience — General reader — Context and orientation"
+  source_ref: TBS Audience — General reader — Context and orientation
   principle: UR-0004
